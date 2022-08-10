@@ -1,7 +1,7 @@
 # i-chat-chatting-application:
 Live Chatting application using NodeJs &SocketIO
 Create a GUI based web application for users to instantly communicate with each other
-Technologies used:- HTML, CSS, NodeJS, SocketIO
+Technologies used:- HTML, CSS, JavaScript, NodeJS, SocketIO
 
 Features:- 
 - live chatting 
